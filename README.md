@@ -5,9 +5,9 @@
 - Старые/замороженные сборки серверов
 - Скрытый контент (карты, текстуры, модели)
 ### Мы тут
-[![Канал в Discord](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=discord)](https://discord.gg/efBzECNrxY)
-![Группа в VK](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=vk)
-![Сайт](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=site)
-![Документация проекта](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=site)
-![Поддержка](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=qiwi)
-![Коллекция контента](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=steam)
+[![Discord](https://img.shields.io/badge/-Discord-424242?style=for-the-badge&logo=discord)](https://discord.gg/efBzECNrxY)
+![VK](https://img.shields.io/badge/-VK-424242?style=for-the-badge&logo=vk)
+![Сайт](https://img.shields.io/badge/-Сайт-424242?style=for-the-badge&logo=site)
+![Документация](https://img.shields.io/badge/-Документация-424242?style=for-the-badge&logo=site)
+![Поддержка](https://img.shields.io/badge/-Поддержка-424242?style=for-the-badge&logo=qiwi)
+![Content](https://img.shields.io/badge/-Content-424242?style=for-the-badge&logo=steam)
