@@ -5,7 +5,7 @@
 - Старые/замороженные сборки серверов
 - Скрытый контент (карты, текстуры, модели)
 ### Мы тут
-![Канал в Discord](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=discord)
+[![Канал в Discord](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=discord)](https://discord.gg/efBzECNrxY)
 ![Группа в VK](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=vk)
 ![Сайт](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=site)
 ![Документация проекта](https://img.shields.io/badge/-Flutter-424242?style=for-the-badge&logo=site)
